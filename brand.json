@@ -35,9 +35,9 @@
             "url": "/price/brand-33.html",
             "name": "奥迪",
             "total": 836
-        },
+        }
     ],
-    "B": {
+    "B": [
         {
             "id": 140,
             "url": "/price/brand-140.html",
@@ -163,7 +163,7 @@
             "url": "/price/brand-37.html",
             "name": "布加迪",
             "total": 3
-        },
+        }
     ],
     "C": [
         {
@@ -207,7 +207,7 @@
             "url": "/price/brand-196.html",
             "name": "成功汽车",
             "total": 32
-        },
+        }
     ],
     "D": [
         {
@@ -281,7 +281,7 @@
             "url": "/price/brand-81.html",
             "name": "东南",
             "total": 231
-        },
+        }
     ],
     "F": [
         {
@@ -331,7 +331,7 @@
             "url": "/price/brand-282.html",
             "name": "福田乘用车",
             "total": 317
-        },
+        }
     ],
     "G": [
         {
@@ -375,7 +375,7 @@
             "url": "/price/brand-304.html",
             "name": "国金汽车",
             "total": 4
-        },
+        }
     ],
     "H": [
         {
@@ -467,7 +467,7 @@
             "url": "/price/brand-97.html",
             "name": "黄海",
             "total": 179
-        },
+        }
     ],
     "I": [
         {
@@ -549,7 +549,7 @@
             "url": "/price/brand-297.html",
             "name": "君马汽车",
             "total": 14
-        },
+        }
     ],
     "K": [
         {
@@ -611,7 +611,7 @@
             "url": "/price/brand-9.html",
             "name": "克莱斯勒",
             "total": 32
-        },
+        }
     ],
     "L": [
         {
@@ -715,7 +715,7 @@
             "url": "/price/brand-50.html",
             "name": "路特斯",
             "total": 14
-        },
+        }
     ],
     "M": [
         {
@@ -759,7 +759,7 @@
             "url": "/price/brand-168.html",
             "name": "摩根",
             "total": 13
-        },
+        }
     ],
     "N": [
         {
@@ -793,7 +793,7 @@
             "url": "/price/brand-146.html",
             "name": "欧朗",
             "total": 10
-        },
+        }
     ],
     "P": [
         {
@@ -801,7 +801,7 @@
             "url": "/price/brand-61.html",
             "name": "帕加尼",
             "total": 1
-        },
+        }
     ],
     "Q": [
         {
@@ -839,7 +839,7 @@
             "url": "/price/brand-312.html",
             "name": "庆铃汽车",
             "total": 5
-        },
+        }
     ],
     "R": [
         {
@@ -871,7 +871,7 @@
             "url": "/price/brand-103.html",
             "name": "瑞麒",
             "total": 50
-        },
+        }
     ],
     "S": [
         {
@@ -957,7 +957,7 @@
             "url": "/price/brand-67.html",
             "name": "斯柯达",
             "total": 338
-        },
+        }
     ],
     "T": [
         {
@@ -977,7 +977,7 @@
             "url": "/price/brand-161.html",
             "name": "腾势",
             "total": 5
-        },
+        }
     ],
     "W": [
         {
@@ -1027,7 +1027,7 @@
             "url": "/price/brand-167.html",
             "name": "五十铃",
             "total": 113
-        },
+        }
     ],
     "X": [
         {
@@ -1065,7 +1065,7 @@
             "url": "/price/brand-72.html",
             "name": "雪铁龙",
             "total": 409
-        },
+        }
     ],
     "Y": [
         {
@@ -1133,7 +1133,7 @@
             "url": "/price/brand-317.html",
             "name": "云雀",
             "total": 4
-        },
+        }
     ],
     "Z": [
         {
@@ -1165,6 +1165,6 @@
             "url": "/price/brand-94.html",
             "name": "众泰",
             "total": 384
-        },
+        }
     ]
 }
